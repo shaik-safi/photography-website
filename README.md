@@ -1,3 +1,3 @@
 Photography website
 
-Check Live Here -->  http://saleemarthouse.cf/
+Check Live Here -->  (https://shaikphotographysite.netlify.app/)
