@@ -1,3 +1,3 @@
 Photography website
 
-Check Live Here -->  (https://shaikphotographysite.netlify.app/)
+Check Live Here -->  https://shaikphotographysite.netlify.app/
